@@ -1,0 +1,17 @@
+[
+  {
+    "path": "posts/welcome/",
+    "title": "Greetings, human!",
+    "description": "This is a practice blog that I made in my R class. Ain't that neat?",
+    "author": [
+      {
+        "name": "Andrew Edelblum, Esquire",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2019-03-04",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2019-03-04T10:59:01-08:00"
+  }
+]
